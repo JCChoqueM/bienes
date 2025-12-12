@@ -14,7 +14,7 @@ if (!isset($inicio)) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>nuevos dividendos</title>
+    <title>Gisela choque</title>
     <link rel="stylesheet" href="../build/css/app.css">
 </head>
 
